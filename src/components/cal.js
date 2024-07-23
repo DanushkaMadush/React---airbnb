@@ -1,17 +1,9 @@
 import React from "react";
+import jokesData from "./data"
 
 export default function Cal () {
-    const colors = ["Red" , "Orange" , "Yellow" , "Green" , "Blue" , "Indigo" , "Violet"]
-
-    const colorElements = colors.map(color => {
-        return (
-            <div>
-                <h3>{color}</h3>
-            </div>
-        )
+    const jokeElements = jokesData.map(joke => {
+        return `<h3>${joke}</h3>`
     })
-    
-    return (
-        `<h3>${colors.map}</h3>`
-    )
 }
+
