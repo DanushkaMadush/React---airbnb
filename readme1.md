@@ -1,6 +1,3 @@
-# flow-watch-api-core
-
-
 # **Monitoring Dashboard**
 
 ## **Description**
@@ -78,13 +75,13 @@ FLOW-WATCH-API-CORE/
 └── README.md
 ```
 
-**models/** - Contains Mongoose schema for the pipeline model.
+- models - Contains Mongoose schema for the pipeline model.
 
-**routes/** - API routes for handling requests.
+- routes - API routes for handling requests.
 
-**controllers/** - Handles business logic and processes for each route.
+- controllers - Handles business logic and processes for each route.
 
-**app.js** - Entry point to initialize the server.
+- app.js - Entry point to initialize the server.
 
 ---
 
