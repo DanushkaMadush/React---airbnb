@@ -4,7 +4,7 @@
 # **Monitoring Dashboard**
 
 ## **Description**
-A Node.js backend project for monitoring dashboard application that allows users to dynamically manage workflows. The project is designed to efficiently handle backend operations and integrates with MongoDB.
+A Node.js backend project for monitoring dashboard application that allow users to dynamically manage workflows. The project is designed to efficiently handle backend operations and integrates with MongoDB.
 
 ---
 
@@ -21,7 +21,7 @@ A Node.js backend project for monitoring dashboard application that allows users
 ## **Installation**
 
 1. Download and Install Node.js :
-   `https://nodejs.org/en/download/prebuilt-installer/current`
+   https://nodejs.org/en/download/prebuilt-installer/current
 
 1. Clone the repository:
    ```bash
